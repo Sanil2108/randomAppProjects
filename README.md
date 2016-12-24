@@ -1,7 +1,12 @@
 # randomAppProjects
-okk, i created this for ace projects, and this was the readme included, 
-I have included apk files and the project files.
-The main app is studyMate. Now, the app is pretty large containing 4 databases and over 5000 lines of coding. maybe even more than 6000 lines and I completed the app the night before deadline so had little time to test it so, please expect some bugs. I have fixed almost all of the bugs I could possibly find. but, for example, a particular bug in which the app crashed when I tried to sign up happened twice, in hundreds of time I have tried running the app, this only happened twice. Both of the times it was on my phone while it was not connected to laptop so I couldn't see the errors. The final one is there may be a bug in delete button in Assignments. Though, the probablity of any of these bugs happening is low.
-There is some dummy data as well but feel free to create your own subjects, notes or assignments. Finally, if you do encounter a bug, please close the app, close it from task manager(or swipe it in recent apps) and open it again. If the userId is wrong, the app will crash(I spotted this bug and the fix is ver simple but I spotted it too late and now I cant fix it). There is also an account already created, userId - sanilk21, pass - pass@123
-Second app is AccountsMate, this one is an older project. The reason it is called BudgetLayoutV1 is that it was the older name of the app. The reason I started development on this app was so that small business owners can easily mantain accounts and keep record of their transactions without having to spend money on mantaining accounts. Basically the app would create final accounts and upload it on their Google Drive where they can get a print out of it. But, due to huge amount of coding, I never finished the app.
-The final one is a game created purely with Android. Since then, I have moved to creating games with Libgdx but that is not technically Android so I have not included those projects. Games with libgdx, though, do not lag. And there can be an occassional lag in this game, this is not because of the coding but simply because java has failed in graphics(googling why is java bad for graphics will present both sides of the argument).
+There are apk files and only the src files
+At the moment, the app studyMate does something weird with android marshmallow
+the rest work just fine
+
+as for 'just the src files', the apps are too huge for github so i cant upload them
+so it includes just the src file
+
+[the main folder]\app\src
+
+and if that is relevant
+
