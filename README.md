@@ -10,3 +10,9 @@ so it includes just the src file
 
 and if that is relevant
 
+Gradle version - 2.10
+Android plugin version - 2.0.0
+Android plugin repository - jcenter
+Default library repository - jcenter
+
+Tested and works on android API level 21
